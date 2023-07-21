@@ -1,0 +1,8 @@
+C:\Genpact Training\TrainingDay10\WeeklyAssignment2\WeeklyAssignment2\bin\Debug\WeeklyAssignment2.exe.config
+C:\Genpact Training\TrainingDay10\WeeklyAssignment2\WeeklyAssignment2\bin\Debug\WeeklyAssignment2.exe
+C:\Genpact Training\TrainingDay10\WeeklyAssignment2\WeeklyAssignment2\bin\Debug\WeeklyAssignment2.pdb
+C:\Genpact Training\TrainingDay10\WeeklyAssignment2\WeeklyAssignment2\obj\Debug\WeeklyAssignment2.csproj.AssemblyReference.cache
+C:\Genpact Training\TrainingDay10\WeeklyAssignment2\WeeklyAssignment2\obj\Debug\WeeklyAssignment2.csproj.SuggestedBindingRedirects.cache
+C:\Genpact Training\TrainingDay10\WeeklyAssignment2\WeeklyAssignment2\obj\Debug\WeeklyAssignment2.csproj.CoreCompileInputs.cache
+C:\Genpact Training\TrainingDay10\WeeklyAssignment2\WeeklyAssignment2\obj\Debug\WeeklyAssignment2.exe
+C:\Genpact Training\TrainingDay10\WeeklyAssignment2\WeeklyAssignment2\obj\Debug\WeeklyAssignment2.pdb
